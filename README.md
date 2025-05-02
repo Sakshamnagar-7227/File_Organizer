@@ -16,5 +16,5 @@ Moves files into categorized folders
 Leaves no file behind!
 
 
-📌 Dependencies
+📌 Dependencies :-
 No external libraries required — just os and shutil from Python standard library.
