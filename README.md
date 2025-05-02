@@ -10,7 +10,7 @@ It groups files based on their extensions into categories like Images, Documents
       python organizer.py
 3. Enter the path of the folder you want to organize.
 
-📂 What it does
+📂 What it does - 
 Detects file types based on extensions
 Moves files into categorized folders
 Leaves no file behind!
